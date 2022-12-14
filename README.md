@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://create-react-app.d
 Run Toxic Labs Station with the following commands:
 
 ```
-git clone https://github.com/TCCD-Developer/Station.git
+git clone https://github.com/ToxicLabs/Station.git
 cd station
 npm i
 npm run start
